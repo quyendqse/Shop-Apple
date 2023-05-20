@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 export const SideImage = styled.img`
   min-height: 800px;
-  height: 99.6vh;
+  height: 90vh;
   object-fit: cover;
   width: 100%;
   border: none;

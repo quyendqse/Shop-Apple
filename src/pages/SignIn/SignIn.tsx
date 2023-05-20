@@ -71,7 +71,7 @@ function SignIn() {
         item
         component={Grid}>
         <Grid>
-          <SideImage src="/side-image.png" alt="" />
+          <SideImage src="https://www.apple.com/newsroom/images/product/ipad/standard/Apple_iPad-10-2-inch_Family_09142021_big.jpg.slideshow-xlarge.jpg" alt="" />
         </Grid>
       </Box>
       <Grid item lg={5} xs={12}>
@@ -83,7 +83,7 @@ function SignIn() {
                   {errorMessage}
                 </Alert>
               )}
-              <Typography variant="h3">Sign in</Typography>
+              <Typography variant="h3">Apple Shop Manager</Typography>
               <Formik initialValues={initFormValue} onSubmit={handleSignIn}>
                 {({
                   values,
