@@ -1,4 +1,4 @@
-# GigJob
+# Shop-Apple
 
 A website for connecting workers and employers
 
